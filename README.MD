@@ -1,9 +1,9 @@
 # About
 This repository contains all of the work for CS 418.
 
-Team Name: 
+Team Name: Flyers 
 
-Project Goal: 
+Project Goal: Analyze aviation incident data and create a prediction tool that we tell the user the % chance of an accident based on the information that we provide to it.
 
 Members: 
 Yesui Delgermunkh (ydelg2@uic.edu) @ydelg2
