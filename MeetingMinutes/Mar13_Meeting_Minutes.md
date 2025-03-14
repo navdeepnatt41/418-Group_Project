@@ -13,6 +13,7 @@
 - **Goal for this week before next meeting: Create your visualization of your chosen idea that was voted upon by the group**
 
 **Visualization Tasks** 
+
 Ang: Create a visualization that compares Makes of planes and the broad phase of flight (approach, initial climb, landing) [STACKED BAR CHART] 
 
 Nav: Plot accident data over a set of years with respect to location. We could plot accident points on an Earth map and also study which regions comparatively got the most accidents over time [SCATTERPLOT] 
