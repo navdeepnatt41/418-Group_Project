@@ -22,7 +22,7 @@ Oli: Time between accident date and report publication with a heatmap or bar cha
 
 Lora: Line graph of number of flight incidents over time. Use separate lines for fatalities, non fatal injuries, and non-injuries [LINE GRAPH]
 
-Yesui: TBD
+Yesui: Flight operator (company) vs. number of accidents (look at number of accidents per operator over total number) [bar chart]
 
 **End Goal Deliverable:**  Input traits {make, model, etc}  —> output { % chance of accident}    
 
