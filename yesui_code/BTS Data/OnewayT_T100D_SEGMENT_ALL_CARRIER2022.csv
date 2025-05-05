@@ -1,0 +1,210 @@
+
+UNIQUE_CARRIER,Description,Sum(DEPARTURES_PERFORMED)
+"-","Unknown",750
+"02Q","Titan Airways",11
+"04Q","Tradewind Aviation",5951
+"09Q","Swift Air, LLC d/b/a Eastern Air Lines d/b/a Eastern",13603
+"0BQ","DCA",20
+"0CQ","ACM AIR CHARTER GmbH",48
+"0Q","Flying Service N.V.",12
+"0UQ","Comlux Malta, Ltd.",4
+"10Q","Swiss Air Ambulance",2
+"13Q","Chartright Air Inc.",429
+"14Q","London Air Services Limited",150
+"15Q","Air Alsie A/S",77
+"17Q","Albinati Aeronautics SA",1
+"1BQ","Eastern Airlines f/k/a Dynamic Airways, LLC",122
+"1EQ","KaiserAir, Inc.",324
+"1HQ","International Jet Management GmbH",26
+"1QQ","City Wings Inc dba Seaflight",2726
+"1UQ","Gainjet Aviation SA",34
+"1WQ","Ultimate JetCharters LLC dba Ultimate Air Shuttle",95
+"1XQ","Dassault Falcon Service",6
+"1YQ","Air Charter, Inc d/b/a Air Flamenco",6573
+"1ZQ","Comlux Aruba NV",12
+"24Q","Jet Story",13
+"25Q","Mjet GmbH",9
+"26Q","Albinati aviation Limited",2
+"27Q","Jet Aviation Flight Services, Inc.",1355
+"2AQ","ABS JETS A.S",17
+"2E","Smokey Bay Air Inc.",8684
+"2GQ","Cavok Air LLC",14
+"2HQ","Elite Airways LLC",175
+"2JQ","Delux Public Charter LLC",29901
+"2KQ","Longtail Aviation Ltd.",16
+"2LQ","Tropic Ocean Airways LLC",1918
+"2O","Island Air Service",12232
+"2UQ","Svenskt Industriflyg AB",10
+"34Q","Polaris Aviation Solutions, LLC",1
+"36Q","Air Hamburg Luftverkehrsgesellschaft mbH",103
+"3AQ","Maritime Helicopters, Inc.",3746
+"3E","Multi-Aero, Inc. d/b/a Air Choice One",1064
+"3EQ","Scott Aviation, LLC  d/b/a  Silver Air",1599
+"3FQ","Western Air Charter, Inc.  d/b/a  Jet Edge",9215
+"3KQ","Junipogo, LLC",97
+"3M","Silver Airways",14051
+"3S","AeroLogic GmbH",216
+"4B","Boutique Air",11713
+"4W","Warbelow",5733
+"4Y","EUROWINGS DISCOVER GmbH",5
+"5D","Aerolitoral",2
+"5V","Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo",8503
+"5X","United Parcel Service",154949
+"5Y","Atlas Air Inc.",23535
+"6F","FOX AIRCRAFT, LLC",5489
+"7H","NEW PACIFIC AIRLINES",14059
+"7S","Ryan Air f/k/a Arctic Transportation",23527
+"8C","Air Transport International",30986
+"8E","Bering Air Inc.",41850
+"8V","Wright Air Service",23989
+"9E","Endeavor Air Inc.",224395
+"9K","Hyannis Air Service, Inc. dba Cape Air",75742
+"9X","Southern Airways Express, dba Mokulele Airlines",81086
+"AA","American Airlines Inc.",851272
+"ABX","ABX Air Inc",13185
+"AC","Air Canada",268
+"AD","Azul Linhas Aereas Brazileiras S A",1
+"ADB","Antonov Company",28
+"AF","Compagnie Natl Air France",11
+"ALQ","Alliance Executive Jets Ltd.",4
+"AM","Aeromexico",9
+"AMQ","Ameristar Air Cargo",1200
+"AN","ADVANCED AIR, LLC",8738
+"AOQ","Avcon Jet AG",36
+"AS","Alaska Airlines Inc.",230795
+"ATQ","Bairline Fluggesellschaft",3
+"AZ","Italia Transporto Aereo S.P.A DBA ITA S.P.A",1
+"B6","JetBlue Airways",263956
+"BA","British Airways Plc",2
+"BAS","Baranautica Air Service LLC",231
+"BCQ","Bradley Air Services Ltd.",2
+"BR","Eva Airways Corporation",1544
+"BW","Caribbean Airlines Limited",1
+"C5","CommuteAir LLC dba CommuteAir",76623
+"CA","Air China",404
+"CAZ","CAT Aviation",1
+"CC","Air Atlanta Icelandic",25
+"CH","Bemidji Airlines",229
+"CI","China Airlines Ltd.",3298
+"CK","China Cargo Airline",331
+"CX","Cathay Pacific Airways Ltd.",2530
+"DE","Condor Flugdienst",19
+"DHQ","DHL Aero Expresso",1
+"DL","Delta Air Lines Inc.",888192
+"EAU","Elitavia Malta Limited",7
+"EB","WAMOS AIR SA",33
+"ELL","Ellis Air Taxi Inc.",416
+"EM","Empire Airlines Inc.",17167
+"EV","ExpressJet Airlines LLC d/b/a aha!",1583
+"EY","Etihad Airways",2
+"F9","Frontier Airlines Inc.",151088
+"FX","Federal Express Corporation",272838
+"FYQ","Flying Group Lux S.A.",1
+"G3","VRG Linhas Aereas S A",5
+"G4","Allegiant Air",113902
+"G7","GoJet Airlines LLC d/b/a United Express",50833
+"GCA","Global Crossing Airlines, Inc.",1518
+"GCH","Grand Canyon Helicopters",732
+"GEQ","Gestair, S.A.",8
+"GFQ","Gulf And Caribbean Cargo",2031
+"GV","Grant Aviation",76847
+"HA","Hawaiian Airlines Inc.",73952
+"HAQ","Hamilton Jetport Limited",25
+"HYP","Hyperion Aviation Ltd. dba Hyperion",7
+"I4","Scott Air LLC dba Island Air Express",5226
+"IB","Iberia Air Lines Of Spain",1
+"IFQ","FAI rent-a-jet AG",7
+"IGA","Global Jet Austria, GmbH",1
+"J5","Kalinin Aviation LLC d/b/a Alaska Seaplanes",19563
+"JCO","Concierge U Ltd. d/b/a Jet Concierge Club",11
+"JJ","TAM Linhas Aereas SA dba Latam Airlines Brasil",2
+"JL","Japan Air Lines Co. Ltd.",3
+"JN","J&M Alaska Air Tours, Inc. d/b/a Alaska Air Transit",1332
+"JRQ","KENAI AVIATION OPERATIONS, LLC",817
+"K2","Paklook Air, Inc d/b/a/ Airlift Alaska d/b/a/ Yute Commuter Service",29588
+"K3","Venture Travel LLC d/b/a Taquan Air Service",4963
+"KAH","Kenmore Air Harbor",24994
+"KAQ","Kalitta Air LLC",7914
+"KAT","Katmai Air",3571
+"KD","Western Global",1675
+"KE","Korean Air Lines Co. Ltd.",3886
+"KFQ","Skyfirst Limited",18
+"KG","Key Lime Air Corp dba Denver Air Connection",10966
+"KH","Aloha Air Cargo",10450
+"KLQ","Kalitta Charters II",5544
+"KO","Alaska Central Express",17138
+"KX","Cayman Airways Limited",3
+"KZ","Nippon Cargo Airlines",1392
+"L2","Lynden Air Cargo Airlines",3475
+"L7","Lan Colombia",236
+"LA","LATAM Airlines Group SA dba Lan Airlines",59
+"LDQ","Sparfell Luftfahrt GmbH",4
+"LF","CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle",18019
+"LH","Lufthansa German Airlines",82
+"LMQ","Luxaviation EA",1
+"LP","Lan Peru Airlines",2
+"LX","Swiss International Airlines",1
+"LXQ","Luxaviation Germany GmbH",5
+"M3","ABSA-Aerolinhas Brasileiras",1
+"M6","Amerijet International",4228
+"M7","Aerotransportes Mas De Crga",2
+"MQ","Envoy Air",243136
+"MU","China Eastern Airlines",157
+"MX","Breeze Aviation Group DBA  Breeze",13208
+"N8","National Air Cargo Group Inc d/ba National Airlines",592
+"NC","Northern Air Cargo Inc.",6085
+"NEW","New England Airlines Inc.",7444
+"NIQ","AVCON JET MALTA LTD",3
+"NK","Spirit Air Lines",226082
+"NLQ","Nolinor Aviation",8
+"OH","PSA Airlines Inc.",208368
+"OO","SkyWest Airlines Inc.",727392
+"OZ","Asiana Airlines Inc.",2872
+"PAF","Pathfinder Aviation",92
+"PFQ","Asia Pacific",1091
+"PH","Polynesian Airlines Ltd.",240
+"PO","Polar Air Cargo Airways",3407
+"PR","Philippine Airlines Inc.",40
+"PT","Piedmont Airlines",84140
+"PTQ","Pontair Ltd.",10
+"Q5","40-Mile Air",1030
+"QF","Qantas Airways Ltd.",696
+"QFX","Sparfell Malta Ltd",1
+"QX","Horizon Air",87567
+"RV","Air Canada rouge LP",18
+"RVQ","Reeve Air Alaska, LLC",910
+"S2","Star Marianas Air Inc.",25586
+"SEB","Seaborne Virgin Islands, Inc.",3873
+"SNK","Spernak Airways Inc.",3083
+"SQ","Singapore Airlines Ltd.",194
+"SVW","Global Jet Luxembourg, Sa",22
+"SY","Sun Country Airlines d/b/a MN Airlines",39157
+"TK","Turk Hava Yollari A.O.",155
+"TP","TAP-TAP Air Portugal",3
+"TQ","Tailwind Air, LLC",1335
+"U7","USA Jet Airlines Inc.",4255
+"UA","United Air Lines Inc.",617995
+"UX","Air Europa",1
+"V8","Iliamna Air Taxi",2541
+"VB","Aeroenlaces Nacionales, S.A. de C.V. d/b/a VivaAerobus",4
+"VI","Vieques Air Link Inc.",14185
+"VIQ","Volga-Dnepr Airlines",3
+"VJT","VistaJet Limited",10
+"VS","Virgin Atlantic Airways",9
+"WGT","Volkswagen AirSevice GmbH dba Volkswagon",21
+"WI","Sky Lease Cargo",469
+"WL","Caribbean Sun Airlines, Inc. d/b/a World Atlantic Airlines",44
+"WN","Southwest Airlines Co.",1267674
+"WS","Westjet",2
+"WST","Friday Harbor Seaplanes",1282
+"X4","Air Excursions LLC",1847
+"X7","Challenge Airlines (BE) S.A.",2
+"X9","Omni Air International LLC",424
+"XP","TEM Enterprises dba  Avelo Airlines",10469
+"YR","Grand Canyon Airlines, Inc. d/b/a Grand Canyon Airlines d/b/a Scenic Airlines",7695
+"YV","Mesa Airlines Inc.",113075
+"YX","Republic Airline",302601
+"Z3Q","PM Air, LLC",4278
+"ZPQ","Silk Way Airlines, LLC",1
+"ZW","Air Wisconsin Airlines Corp",64601
+"All Rows","All Rows (including those not displayed)",8223577
